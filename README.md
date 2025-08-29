@@ -1,3 +1,3 @@
 # learing-session
 The is my first repository
-Author by - punya gowda
+Author by - punya gowda (dinesh GM)
